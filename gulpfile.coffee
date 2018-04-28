@@ -42,8 +42,13 @@ gulp.task 'develop', ->
       @stdout.pipe process.stdout
       @stderr.pipe process.stderr
 
-gulp.task 'default', [
+gulp.task 'build', [
   'sass'
+  'coffee'
+]
+
+gulp.task 'default', [
+  'build'
   'develop'
   'watch'
 ]

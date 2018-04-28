@@ -8,7 +8,8 @@ Clone the project and run the following
 
 ```bash
 npm i
-npm run start
+bower i
+gulp
 ```
 
 ## Contributing

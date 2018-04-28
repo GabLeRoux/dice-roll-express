@@ -1,0 +1,12 @@
+{
+  "name": "dice-roll-express",
+  "description": "roll a dice on the internets",
+  "website": "https://github.com/gableroux/dice-roll-express",
+  "success_url": "/",
+  "buildpacks": [
+      {
+          "url": "heroku/nodejs"
+      }
+  ]
+}
+

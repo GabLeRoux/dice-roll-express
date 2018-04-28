@@ -1,6 +1,8 @@
 # Dice roll express
 
-Fun projet I did a while ago to roll a dice on a webpage using express and [rpg-dice]()
+Fun projet I did a while ago to roll a dice on a webpage using express and [rpg-dice](https://github.com/jasperbok/rpg-dice)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## How to
 

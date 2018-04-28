@@ -9,9 +9,8 @@ Fun projet I did a while ago to roll a dice on a webpage using express and [rpgd
 Clone the project and run the following
 
 ```bash
-npm i
 bower i
-gulp
+npm run gulp
 ```
 
 ## Contributing

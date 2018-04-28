@@ -19,7 +19,6 @@
     "gulp-watch": "^5.0.0",
     "gutil": "^1.6.4",
     "morgan": "^1.6.1",
-    "rpg-dice": "^0.6.0",
     "rpgdicejs": "^1.2.4",
     "serve-favicon": "^2.3.0"
   },

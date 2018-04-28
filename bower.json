@@ -1,0 +1,16 @@
+{
+  "name": "npm-dice",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.0.0",
+    "font-bebas-neue": "^1.0.1",
+    "webfontloader": "^1.6.24",
+    "animate.css": "^3.5.2"
+  }
+}

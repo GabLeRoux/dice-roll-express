@@ -1,5 +1,7 @@
 # Dice roll express
 
+[![Build Status](https://travis-ci.org/GabLeRoux/dice-roll-express.svg?branch=master)](https://travis-ci.org/GabLeRoux/dice-roll-express)
+
 Fun projet I did a while ago to roll a dice on a webpage using express and [rpgdicejs](https://github.com/Morgul/rpgdice)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)

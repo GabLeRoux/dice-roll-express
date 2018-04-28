@@ -6,7 +6,7 @@
     "start": "node bin/www",
     "gulp": "gulp",
     "bower": "bower",
-    "postinstall": "bower install"
+    "postinstall": "bower install && npm run build"
   },
   "dependencies": {
     "body-parser": "^1.13.3",
